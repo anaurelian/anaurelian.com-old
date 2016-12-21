@@ -1,0 +1,9 @@
+baseurl = "http://anaurelian.com/"
+title = "AnAurelian - A software developer"
+languageCode = "en-us"
+disableRSS="true"
+googleAnalytics = "UA-31406972-1"
+
+[params]
+description = "I develop a few pieces of software, and maintain a few small projects started by others. 16 Million Taps, Tap GUID Generator, SrcAnywhere, and more to come."
+copyright = "Copyright © AnAurelian 2016"
