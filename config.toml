@@ -1,8 +1,9 @@
-baseurl = "http://anaurelian.com/"
-title = "AnAurelian - A software developer"
-languageCode = "en-us"
+baseurl = "https://anaurelian.com/"
+canonifyURLs = true
 disableRSS="true"
 googleAnalytics = "UA-31406972-1"
+languageCode = "en-us"
+title = "AnAurelian - A software developer"
 
 [params]
 description = "I develop a few pieces of software, and maintain a few small projects started by others. 16 Million Taps, Tap GUID Generator, SrcAnywhere, and more to come."
